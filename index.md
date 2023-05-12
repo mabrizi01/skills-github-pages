@@ -1,7 +1,7 @@
-theme: minima
-title: Marco Brizi
-description: test
 ---
+theme: minima
+author: Marco Brizi
+description: test
 title: Welcome to my blog
 ---
 
